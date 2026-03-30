@@ -4,10 +4,6 @@ This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a mo
 
 ---
 
-## 📄 File Overview
-
-- **`myCV.docx`** – The main CV document in Microsoft Word format, suitable for printing or direct submission to employers.
-
 ---
 
 ## 👤 Personal Details
