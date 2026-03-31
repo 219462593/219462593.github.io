@@ -69,7 +69,7 @@ This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a mo
 ---
 ## Mock Interview Video
 
-<video src="https://github.com/219462593/219462593.github.io/issues/2#issue-4178343264" width="500" height="500"></video>
+<video src="https://github.com/219462593/219462593.github.io/blob/5673b0cf2b175c3ca62c8cab27653a81ed8ba435/Mock_Interview_Video.mp4" width="500" height="500"></video>
 
 ---
 
