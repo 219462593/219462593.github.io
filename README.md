@@ -67,6 +67,10 @@ This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a mo
 | Wikus De Bruin | Shoprite Checkers (Pty) Ltd | ldebruin@shoprite.co.za |
 
 ---
+## Mock Interview Video
+
+https://github.com/219462593/219462593.github.io/issues/2#issue-4178343264.mp4
+---
 
 ## 📬 Contact
 
