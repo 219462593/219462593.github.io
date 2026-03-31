@@ -2,11 +2,6 @@
 
 This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a motivated ICT student at the Cape Peninsula University of Technology (CPUT) with a strong interest in networking, system administration, and front-end development.
 
----
-
-## 📄 File Overview
-
-- **`myCV.docx`** – The main CV document in Microsoft Word format, suitable for printing or direct submission to employers.
 
 ---
 
