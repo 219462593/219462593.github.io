@@ -66,6 +66,25 @@ This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a mo
 | Wikus De Bruin | Shoprite Checkers (Pty) Ltd | ldebruin@shoprite.co.za |
 
 ---
+# Reflection
+
+#### What I Did
+- Created my first repo and pushed code
+- Learned basic git commands: `add`, `commit`, `push`
+- Wrote my first `README.md` with Markdown
+
+#### What Went Well
+- Markdown syntax for headers and lists was intuitive
+- GitHub preview helped me see formatting live
+- Linking to other files with `[text](link.md)` worked first try
+
+#### What Was Confusing
+- Difference between `git commit` and `git push` at first
+- Remembering to close code blocks with triple backticks ```
+- Branch vs main workflow
+ 
+
+---
 
 # Mock Interview Video
 <video src="https://raw.githubusercontent.com/219462593/219462593.github.io/main/untitled_v1%20(240p).mp4" width="500" height="500" controls></video>
