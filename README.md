@@ -90,7 +90,15 @@ This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a mo
 <video src="https://raw.githubusercontent.com/219462593/219462593.github.io/main/untitled_v1%20(240p).mp4" width="500" height="500" controls></video>
 
 ---
+## Mock Interview Reflection
 
+**What I did**: Recorded a 2-3min mock interview  
+**How it felt**: Nervous at first, voice shaky, avoided eye contact with camera  
+**What went okay**: Answered the main question without freezing, got through it  
+**What to improve**: Speak slower, prep 3 bullet points, practice smiling once  
+**Takeaway**: It’s uncomfortable, but it gets easier each rep. Shy ≠ unprepared.
+
+---
 ## 📬 Contact
 
 For opportunities, collaborations, or inquiries, please reach out via email or phone.
