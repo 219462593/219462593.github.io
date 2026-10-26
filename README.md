@@ -103,6 +103,5 @@ This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a mo
 
 For opportunities, collaborations, or inquiries, please reach out via email or phone.
 
----
 
 *Last updated: March 2026*
