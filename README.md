@@ -1,6 +1,6 @@
 # Siphesihle Mkiva – Curriculum Vitae
 
-This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a motivated ICT student at the Cape Peninsula University of Technology (CPUT) with a strong interest in networking, system administration, and digital innovation.
+This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a motivated ICT student at the Cape Peninsula University of Technology (CPUT) with a strong interest in networking, systems, and digital solutions.
 
 ---
 
@@ -81,7 +81,7 @@ This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a mo
 - Difference between `git commit` and `git push` at first
 - Remembering to close code blocks with triple backticks ```
 - Branch vs main workflow
-  
+   
 
 ---
 
@@ -116,15 +116,15 @@ For opportunities, collaborations, or inquiries, please reach out via email or p
 ---
 ## Reflection
 
-Co-creation. We built the charter iteratively, not in one workshop. First, each member wrote expectations and non-negotiables on a shared whiteboard — silent brainstorming so louder voices didn't dominate. We then clustered ideas into themes and negotiated trade-offs until we had a version that reflected the group rather than the strongest personality.
+Co-creation. We built the charter iteratively, not in one workshop. First, each member wrote expectations and non-negotiables on a shared whiteboard — silent brainstorming so louder voices didn’t dominate. We then clustered the comments into themes and debated only the points that blocked delivery. That process created a document that reflected the team’s reality rather than an idealised version of how we wanted to work.
 
-Why these agreements. Core hours (12:00–14:00 weekdays) were the only overlap across all five schedules; we limited them to synchronous work so asynchronous tasks stayed flexible. Our Definition of Ready and Done was intentionally simple, because the team had to agree on what counted as “good enough to start” and “good enough to finish” without creating excessive process overhead.
+Why these agreements. Core hours (12:00–14:00 weekdays) were the only overlap across all five schedules; we limited them to synchronous work so asynchronous tasks stayed flexible. Our Definition of Done was also deliberately simple: no task was considered complete until it was tested, documented, and shared for feedback. This reduced the risk of “done” meaning different things to different people.
 
-Living document. In Week 20, a member missed two stand-ups and a deliverable without flagging it, violating the 48-hour rule. Instead of enforcing punishment, we held a retrospective conversation. The outcome was not blame but a clarification: when someone is blocked, they must notify the team before the deadline, and the team must support them earlier rather than scrambling at the end.
+Living document. In Week 20, a member missed two stand-ups and a deliverable without flagging it, violating the 48-hour rule. Instead of enforcing punishment, we held a retrospective conversation to understand the root cause: the person had underestimated the workload and was uncomfortable raising it earlier. We updated the charter to include a clearer escalation path for workload concerns and made it easier to ask for help without embarrassment.
 
-Impact. Before our Sprint 2 demo, a key feature wasn't working. Because our decision-making protocol was pre-agreed, we called a 15-minute meeting and decided within 10 minutes to drop the feature and reframe our demo around what was stable. This prevented wasted effort and kept our credibility with stakeholders intact.
+Impact. Before our Sprint 2 demo, a key feature was not working. Because our decision-making protocol was pre-agreed, we called a 15-minute meeting and decided within 10 minutes to drop the feature from the demo rather than push a broken result. That prevented a worse failure and kept the team aligned on user value instead of ego.
 
-What I learned is that a charter only works when it's treated as a living artefact — the moment we stopped defending the original document and started improving it was when it actually reduced friction and improved delivery.
+What I learned is that a charter only works when it is treated as a living artefact — the moment we stopped defending the original document and started improving it was when it actually reduced confusion and built trust.
 
 ---
 
@@ -133,13 +133,35 @@ What I learned is that a charter only works when it's treated as a living artefa
 ## Evidence
 ---
 
-[TechEMPOWER 3B Product Backlog](https://trello.com/b/NqVLW18P/tech-empower3?classId=fa272cdc-3e30-4326-b1ee-5f78febe8123&assignmentId=7e04829b-140f-45ab-a5f0-4f49f507f0b7&submissionId=3add15f4-d318-67fa-3ea6-defdee53aa72)
+[TechEMPOWER 3B Product Backlog](https://trello.com/b/NqVLW18P/tech-empower3?classId=fa272cdc-3e30-4326-b1ee-5f78febe8123&assignmentId=7e04829b-140f-45ab-a5f0-4f49f507f0b7&submissionId=3add15f4-d)
 
 ---
 ## Reflection
 
-Creating and maintaining the product backlog helped our team turn broad ideas into clear, prioritised work. Instead of focusing only on tasks, we started by identifying user needs, features, and deliverables, then broke them into smaller items that could be planned and reviewed realistically within a sprint.
+Creating and maintaining the product backlog helped our team turn broad ideas into clear, prioritised work. Instead of focusing only on tasks, we started by identifying user needs, features, and constraints. This made it easier to discuss trade-offs and determine what was most valuable to deliver within the sprint.
 
-This process taught me that a backlog is more than a list of tasks — it is a communication tool. It helped us align on what mattered most, reduce confusion, and make better trade-off decisions when time or scope became limited. Seeing priorities written down gave the team a shared understanding of what we were building, why it mattered, and what needed to happen next.
+This process taught me that a backlog is more than a list of tasks — it is a communication tool. It helped us align on what mattered most, reduce confusion, and make better trade-off decisions when time and scope were limited.
 
 ---
+
+# Agile Logbook
+
+---
+
+## Evidence
+
+---
+
+[PRP37XS Agile Logbook Template - 07-05-26-1.docx](https://github.com/user-attachments/files/33986793/PRP37XS.Agile.Logbook.Template.-.07-05-26-1.docx)
+
+---
+
+## Reflection
+
+My logbook shows that the team moved from planning and slide preparation to delivering the SafeStreet presentation, but the same blockers appeared repeatedly: time pressure, difficulty coordinating meetings, and inconsistent communication. We were often trying to solve problems at the last minute, which meant decisions were rushed and some tasks were not fully validated before the deadline.
+
+This visible pattern made the value of agile practice clearer. The team was not failing because ideas were bad; we were failing because we did not consistently create enough space for feedback, reflection, and shared decision-making. The backlog and sprint structure were useful, but the real challenge was keeping the process disciplined under pressure.
+
+What stood out to me was that the team improved when we made the work more visible. Stand-ups, shared check-ins, and clearer responsibilities helped reduce confusion. Even small habits like confirming deliverables before demo day or flagging blockers earlier made a measurable difference. This suggests that agile methods work best when they are used as a communication system, not just as documentation.
+
+Overall, the logbook shows that I learnt to recognise the difference between activity and progress. Doing more tasks is not the same as creating value. Stronger team alignment, better prioritisation, and earlier communication would have reduced the repeated delays and improved the quality of our final work.
