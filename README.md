@@ -1,7 +1,6 @@
 # Siphesihle Mkiva – Curriculum Vitae
 
-This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a motivated ICT student at the Cape Peninsula University of Technology (CPUT) with a strong interest in networking, system administration, and front-end development.
-
+This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a motivated ICT student at the Cape Peninsula University of Technology (CPUT) with a strong interest in networking, system administration, and digital innovation.
 
 ---
 
@@ -82,7 +81,7 @@ This repository contains the curriculum vitae (CV) of **Siphesihle Mkiva**, a mo
 - Difference between `git commit` and `git push` at first
 - Remembering to close code blocks with triple backticks ```
 - Branch vs main workflow
- 
+  
 
 ---
 
@@ -105,3 +104,26 @@ For opportunities, collaborations, or inquiries, please reach out via email or p
 
 
 *Last updated: March 2026*
+
+---
+# Agile Team Charter
+---
+## Evidence
+---
+
+[TechEMPOWER_3B_TeamCharter.1.pdf](https://github.com/user-attachments/files/33983937/TechEMPOWER_3B_TeamCharter.1.pdf)
+
+---
+## Reflection
+
+Co-creation. We built the charter iteratively, not in one workshop. First, each member wrote expectations and non-negotiables on a shared whiteboard — silent brainstorming so louder voices didn't dominate. We then clustered ideas into themes and negotiated trade-offs until we had a version that reflected the group rather than the strongest personality.
+
+Why these agreements. Core hours (12:00–14:00 weekdays) were the only overlap across all five schedules; we limited them to synchronous work so asynchronous tasks stayed flexible. Our Definition of Ready and Done was intentionally simple, because the team had to agree on what counted as “good enough to start” and “good enough to finish” without creating excessive process overhead.
+
+Living document. In Week 20, a member missed two stand-ups and a deliverable without flagging it, violating the 48-hour rule. Instead of enforcing punishment, we held a retrospective conversation. The outcome was not blame but a clarification: when someone is blocked, they must notify the team before the deadline, and the team must support them earlier rather than scrambling at the end.
+
+Impact. Before our Sprint 2 demo, a key feature wasn't working. Because our decision-making protocol was pre-agreed, we called a 15-minute meeting and decided within 10 minutes to drop the feature and reframe our demo around what was stable. This prevented wasted effort and kept our credibility with stakeholders intact.
+
+What I learned is that a charter only works when it's treated as a living artefact — the moment we stopped defending the original document and started improving it was when it actually reduced friction and improved delivery.
+
+---
