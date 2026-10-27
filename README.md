@@ -130,7 +130,6 @@ What I learned is that a charter only works when it is treated as a living artef
 # User Stories and Tasks
 ---
 ## Evidence
----
 ### Sprint Goal
 Validate the digital divide problem in Cape Town schools and design the core wireframes for the mobile lab booking request feature.
 
