@@ -126,6 +126,46 @@ Impact. Before our Sprint 2 demo, a key feature was not working. Because our dec
 
 What I learned is that a charter only works when it is treated as a living artefact — the moment we stopped defending the original document and started improving it was when it actually reduced confusion and improved delivery.
 
+## Sprint Goal
+
+Validate the digital divide problem in Cape Town schools and design the core wireframes for the mobile lab booking request feature.
+
+### Selected Product Backlog Items (Committed/Forecasted):
+
+- US-01: As a school principal, I want to submit a request for a mobile computer lab so that my learners can receive digital skills training.
+- US-02: As a project manager (internal), I need to review the submitted school requests to allocate lab resources effectively.
+- US-03 (Spike/Research): As a development team, we need to gather survey data from Grade 8-12 learners and teachers to validate the need and prioritize features.
+
+### Task Breakdown & Status Table (Planned vs. Completed):
+
+| Sprint # | Sprint Goal | Committed Items | Task Breakdown (Referencing Trello) | Status |
+|---------|-------------|----------------|-------------------------------------|--------|
+| Sprint 1 | Validate problem & design booking wireframes | US-03 (Research) | • Create project team & WhatsApp group (Trello Day 1)  • Design survey & collect 23 responses  • Analyse data (findings: 70% feel unprepared) | Done |
+|  |  | US-01 (Principal Request) | • Draft wireframe for "Request Lab" form  • Define required fields (School name, Grade, Learner count) | Done |
+|  |  | US-02 (Admin Review) | • Draft UI for internal admin dashboard to view requests  • Map out data flow from form to dashboard | In Progress (Carried over to Sprint 2) |
+
+### Kanban Board Snapshot (Simulated based on Trello context):
+
+- To Do: Draft Admin Dashboard UI (US-02).
+- In Progress: Reviewing survey analytics to prioritize features for the booking form.
+- Done: Form team (Trello Day 1), Survey creation, Data collection (23 responses), Principal Request Form Wireframe (US-01).
+
+### Reflection: Sprint Backlog Discipline (10%)
+
+#### Commitment vs. Forecast
+During Sprint 1, we treated our backlog as a forecast rather than a rigid commitment. We knew that research (US-03) was the priority, but we also forecasted building the UI for both the school request form (US-01) and the admin dashboard (US-02). Because gathering and analyzing the survey data took longer than expected (our 23 responses yielded complex insights), we fell behind on US-02. We handled this gap by accepting reality: instead of rushing a poor design, we moved US-02 to Sprint 2.
+
+#### Sprint Goal Alignment
+Our Sprint Goal was strictly about validating the problem and designing the booking request. However, early in the sprint, we included a task to "Create WhatsApp group" and "Exchange contact details" (as seen on our Trello Day 1 card). While this didn't directly serve the product goal, it was essential for the project goal of forming the team. The consequence was minor friction: we lost a few hours of development time to administrative setup, but it was a necessary trade-off for team alignment.
+
+#### Real-time Updates
+We kept the board current through daily stand-ups on WhatsApp, but we learned a hard lesson about the cost of not updating Trello in real-time. Mid-sprint, a team member spent hours drafting a survey, not realizing another member had already drafted one—because the Trello card hadn't been moved to "In Progress." This duplication cost us half a day. From that point on, our rule became: update Trello before you start working, not after you finish.
+
+#### Scope Negotiation and Ownership
+Midway through the sprint, we realized we could not finish the full admin dashboard (US-02) because the survey data revealed that learners also needed access to the schedule. The team made a democratic decision during a stand-up to descope the admin dashboard to a simple data table and pivot our remaining time to an "US-04: Student Schedule View."
+
+Reflecting on the "Advanced" tip: because this sprint backlog was owned by the developers (us) rather than assigned by a manager, we felt empowered to negotiate the scope. When the manager assigns tasks, developers often hide delays out of fear. Because we owned the backlog, we were transparent about our delays with US-02 and pivoted quickly. This ownership increased our motivation and made our velocity estimates for Sprint 2 much more accurate.
+
 ---
 
 # Product Backlog
